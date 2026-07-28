@@ -1,5 +1,8 @@
 # FIAP SOAT Tech Challenge - App
 
+[![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=zmathmatos_fiap-soat-tech-challenge-app2&metric=alert_status)](https://sonarcloud.io/summary/overall?id=zmathmatos_fiap-soat-tech-challenge-app2)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=zmathmatos_fiap-soat-tech-challenge-app2&metric=coverage)](https://sonarcloud.io/component_measures?id=zmathmatos_fiap-soat-tech-challenge-app2&metric=coverage)
+
 API REST para gerenciamento de ordens de serviço em oficinas mecânicas.
 Implementada com Node.js, Express, TypeScript, PostgreSQL e Sequelize.
 
